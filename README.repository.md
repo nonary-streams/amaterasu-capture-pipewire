@@ -10,5 +10,5 @@ The bundled protocol XML and its upstream notices remain under `protocols/`.
 `zkde-screencast-unstable-v1.xml` is LGPL-2.1-or-later; the verbatim license
 text is in `third-party/LGPL-2.1-or-later.txt`. The `xdg-output` XML includes
 its MIT notice. Generated-code distributions must retain applicable notices.
-No live
-portal or service was opened. The Amaterasu source license is pending.
+No live portal or service was opened. Project-authored source is MIT licensed; the
+bundled protocol licenses remain separate.
